@@ -1,0 +1,2 @@
+Mean Apples: 6.23125
+Median Apples: 6.5
